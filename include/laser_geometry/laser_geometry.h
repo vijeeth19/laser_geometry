@@ -44,7 +44,7 @@
 #include "sensor_msgs/PointCloud.h"
 #include "sensor_msgs/PointCloud.h"
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <sensor_msgs/PointCloud2.h>
 
 #include <ros/macros.h>
